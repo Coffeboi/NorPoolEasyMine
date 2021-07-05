@@ -1,3 +1,3 @@
 # NorPoolEasyMine
 
-A good project
+A bad project
